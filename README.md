@@ -41,18 +41,23 @@ Choose a difficulty level:
 1. Easy (1 to 50, 10 attempts)
 2. Medium (1 to 100, 7 attempts)
 3. Hard (1 to 200, 5 attempts)
+
 Enter your choice (1/2/3): 2
 I have chosen a number between 1 and 100.
 You have 7 attempts to guess it!
+
 Enter your guess: 50
 Too low! Try again.
+
 Attempts remaining: 6
 Enter your guess: 75
 Too high! Try again.
+
 Attempts remaining: 5
 Enter your guess: 63
 Congratulations! You guessed the number: 63
 It took you 3 attempts.
+
 Do you want to play again? (yes/no): no
 Thank you for playing! Goodbye!
 
