@@ -19,12 +19,12 @@ Simple console-based interaction.
 1. Compile the Java code
 
     Navigate to the src folder where the GuessingGame.java file is located, and then compile the Java code using javac:
-             cd GuessingGame/src
-             javac GuessingGame.java
+             cd NumberGuessingGame/src
+             javac NumberGuessingGame.java
 2. Run the Java Program
 
 Once the code is compiled, you can run the game using the following command:
-        java GuessingGame
+        java NumberGuessingGame
 
 3.Start Guessing
 The game will prompt you to enter your guesses.
