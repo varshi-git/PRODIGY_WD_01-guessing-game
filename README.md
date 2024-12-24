@@ -64,7 +64,9 @@ Thank you for playing! Goodbye!
 ## TECHNOLOGIES USED
 
 Java – Programming language used for the game.
+
 Scanner class – For user input.
+
 Math.random() – For generating the random number.
 
 
